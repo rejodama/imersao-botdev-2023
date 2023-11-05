@@ -1,6 +1,10 @@
 # imersao-botdev-2023
 Projeto da Imersão BotDev 2023
 
+## Recursos
+
+Como instalar Node + VS Code + Git: https://www.youtube.com/watch?v=iJ-BUhcZOSY
+
 ## Como executar
 
 1. git clone
